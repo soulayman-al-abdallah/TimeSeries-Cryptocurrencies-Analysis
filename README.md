@@ -13,7 +13,7 @@
 
 Data Science work done by: Eng. Soulayman Al-Abdallah.
 
-Some technical comments added by: NFT trader and crypto expert [Rami Zohbi ](https://www.linkedin.com/in/rami-al-zohbi-9a4484165/).
+Some technical comments added by: NFT trader and crypto expert [Rami Zohbi ](https://www.linkedin.com/in/ramialzohbi).
 
 
 -----
